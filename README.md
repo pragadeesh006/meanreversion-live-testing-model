@@ -1,8 +1,8 @@
 # meanreversion-live-testing-model
-This is a mean reversion model that is ready to trade.
+This is a mean reversion model that is ready to deploy.
 Uses 5paisa api to send buy/sell orders based on model predictions.
 
-This model uses multiple indicators as conditing factors to forecast trends.
+This model uses multiple indicators as conditing factors to forecast reversions.
 
 model description:
 checks if past 15 candles are above vwap-to confirm trend.
